@@ -6,3 +6,4 @@ This project demonstrates basic Git and GitHub remote operations such as push, f
 
 Remote change for Git Lab 1.
 Pull operation demonstration.
+Temporary change for reset demonstration.
